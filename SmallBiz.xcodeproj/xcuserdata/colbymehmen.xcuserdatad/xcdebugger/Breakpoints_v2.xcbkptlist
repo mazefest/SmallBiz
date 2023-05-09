@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C2842874-DB61-42C2-8F70-1E2538FDDFCA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3A55A796-E653-478D-B50D-A79B07D4031C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SmallBiz/Controllers/EmployeeController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "cache()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3A55A796-E653-478D-B50D-A79B07D4031C - a568e3ba8dbb8278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmallBiz.EmployeeController.cache() -&gt; ()"
+                  moduleName = "SmallBiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/colbymehmen/Desktop/ios-proj-2/starter/SmallBiz/SmallBiz/Controllers/EmployeeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "3A55A796-E653-478D-B50D-A79B07D4031C - a568e3ba8dbb8278"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SmallBiz.EmployeeController.cache() -&gt; ()"
+                  moduleName = "SmallBiz"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/colbymehmen/Desktop/ios-proj-2/starter/SmallBiz/SmallBiz/Controllers/EmployeeController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "293">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
